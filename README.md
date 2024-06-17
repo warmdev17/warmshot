@@ -43,6 +43,17 @@ sudo mv warmshot.sh /usr/local/bin/warmshot
 
 ## Usage
 
+```
+Usage: screenshot [--f | --a | --w | --cf | --ca | --cw | --help | -h]
+    --f     Fullscreen screenshot saved to file
+    --a     Area screenshot saved to file
+    --w     Window screenshot saved to file
+    --cf    Fullscreen screenshot to clipboard
+    --ca    Area screenshot to clipboard
+    --cw    Window screenshot to clipboard
+    --help, -h    Display this help message
+```
+
 > Example usage on i3wm
 
 ```
