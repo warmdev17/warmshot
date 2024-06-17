@@ -53,7 +53,6 @@ option:
   --cf    Fullscreen screenshot to clipboard
   --ca    Area screenshot to clipboard
   --cw    Window screenshot to clipboard
-  --help, -h    Display this help message
 ```
 
 > Example usage on i3wm
@@ -69,3 +68,7 @@ bindsym Ctrl+Print exec --no-startup-id warmshot --cf
 bindsym Ctrl+$mod+Print exec --no-startup-id warmshot --cw
 bindsym Ctrl+Shift+Print exec --no-startup-id warmshot --ca
 ```
+
+## Thanks
+
+WARMDEV
