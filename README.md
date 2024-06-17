@@ -15,3 +15,9 @@ For Debian Based Distro
 ```
 sudo apt install xdotool xclip maim
 ```
+
+For RPM Based Distro
+
+```
+sudo dnf install xdotool xclip maim
+```
